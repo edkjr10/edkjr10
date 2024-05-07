@@ -1,8 +1,17 @@
-Hello, I'm Eric
+<h1>Hello, I'm Eric <br/></h1>
+Aspiring Cybersecurity Engineer
 
-I will be using Github to document and share the projects I have completed on my journey to practice the
-Network Security concepts I have learned. I will also include coding projects that may be vaguely associated with Cybersecurity.
+<h2>Cybersecurity Projects:</h2>
 
+- <b>[Malware Analysis Labs](https://github.com/edkjr10/Malware-Analysis-Labs)</b>
+    
+<h2>Certifications</h2>
+
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/HKXVGNFEMTBS)
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
+    
+    
+<h2>LinkedIn: www.linkedin.com/in/eric-king-jr-908773155 </h2>
 <!---
 edkjr10/edkjr10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
