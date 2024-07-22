@@ -8,6 +8,7 @@ knowledge and technical skills in Network Security. My completed prajects are li
 
 - <b>[Malware Analysis Labs](https://github.com/edkjr10/Malware-Analysis-Labs)</b>
 - <b>[Network Traffic Labs](https://github.com/edkjr10/Network-Traffic-Labs)</b>
+- <b>[Active Directory Home Lab](https://github.com/edkjr10/Active-Directory-Home-Lab)</b>
 
 <h2>Other Projects:</h2>
 
